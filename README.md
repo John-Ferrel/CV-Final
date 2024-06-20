@@ -4,7 +4,7 @@
 
 The final Project of CV, including 3 tasks.
 
-Author: Hao Xiao, Bin Li
+Author: Hao Xia & Bin Li
 
 ## Best Model
 Download URL: https://drive.google.com/drive/folders/1IxhMYnqWGLe52mJV2nLEbODqnqY7qDK7?usp=sharing
